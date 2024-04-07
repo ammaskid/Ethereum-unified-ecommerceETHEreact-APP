@@ -1,4 +1,4 @@
-# Decentralised-ecommerce--ETHEreact
+#Ethereum unified ecommerce--ETHEreact
 
 ![alt text](https://github.com/ammaskid/Decentralized_eCom/blob/master/ETHEReact.png)
 
