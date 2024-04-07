@@ -1,6 +1,6 @@
 #Ethereum unified ecommerce--ETHEreact
-![alt text](https://github.com/ammaskid/Ethereum-unified-ecommerceETHEreact-APP
-/blob/master/ETHEReact.png)
+
+![alt text](https://github.com/ammaskid/Ethereum-unified-ecommerceETHEreact-APP/blob/main/ETHEReact.png)
 
 # Description
 ETHEReact is a full-stack DApp, showcasing e-commerce capabilities without relying on any traditional database for the backend. Instead, it utilizes the Ethereum Virtual Machine (EVM) as its backbone. While not a product in itself, it serves as an idea for aspiring blockchain enthusiasts to explore the full potential of decentralized applications, from end to end.
