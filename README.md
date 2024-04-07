@@ -12,7 +12,7 @@ ETHEReact is a full-stack DApp, showcasing e-commerce capabilities without relyi
 - Install the latest version of [NodeJS](https://nodejs.org/en/)
 - Install `truffle` globally using `npm install -g truffle` 
 - Install Ethereum RPC globally using `npm install -g ethereumjs-testrpc` 
-- Clone this Repo using `git clone https://github.com/PruthviKumarBK/Decentralized_eCom.git` 
+- Clone this Repo using `git clone https://github.com/ammaskid/Ethereum-unified-ecommerceETHEreact-APP.git` 
 - `cd Decentralized_eCom` 
 - Below is the command sequence to be executed in the terminal or command prompt:
   ```
